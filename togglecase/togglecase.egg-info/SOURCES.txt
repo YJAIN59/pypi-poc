@@ -1,0 +1,8 @@
+README.md
+setup.py
+togglecase/__init__.py
+togglecase.egg-info/PKG-INFO
+togglecase.egg-info/SOURCES.txt
+togglecase.egg-info/dependency_links.txt
+togglecase.egg-info/requires.txt
+togglecase.egg-info/top_level.txt
